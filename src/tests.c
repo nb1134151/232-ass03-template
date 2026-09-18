@@ -374,7 +374,7 @@ void test_sum_chain_basic(void)
 
 
 // ============================================================
-// test_sum_chain_single
+// test_sum_chain_single                                    /
 //
 // Declare a single Node with a known value.
 // Set nextPtr to NULL.

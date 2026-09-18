@@ -226,7 +226,7 @@ void nullify(int **ppPtr)
 // assign_bytes
 //
 // A long long occupies exactly 8 bytes.
-// Assign values 1, 2, 3, 4, 5, 6, 7, 8 to bytes 0..7
+// Assign values 1, 2, 3, 4, 5, 6, 7, 8 to bytes 0..7 +
 // using a cast pointer — one byte at a time.
 //
 // Example:
